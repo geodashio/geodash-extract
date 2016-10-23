@@ -1,10 +1,11 @@
 {
   "name": "geodash-extract",
-  "version": "0.0.1",
-  "description": "The extract function for GeoDash used during building and runtime.",
+  "version": "0.0.2",
+  "description": "The `extract` function for [GeoDash](http://geodash.io) that is used during building and runtime.",
   "keywords": [
     "map",
     "mapping",
+    "gis",
     "geodash"
   ],
   "homepage": "http://geodash.io/",
